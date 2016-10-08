@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>34.066669</real>
+		<key>long</key>
+		<real>-118.574642</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Pacific Palisades</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.065813</real>
+		<key>long</key>
+		<real>-118.572579</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Wilshire Montana</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.065716</real>
+		<key>long</key>
+		<real>-118.570305</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Venice</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.065085</real>
+		<key>long</key>
+		<real>-118.569029</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Mar Vista</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.063916</real>
+		<key>long</key>
+		<real>-118.568</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Venice</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.062675</real>
+		<key>long</key>
+		<real>-118.568062</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Pacific Ocean</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>34.062055</real>
+		<key>long</key>
+		<real>-118.565611</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>E Topanga Fire </string>
+	</dict>
+</array>
+</plist>

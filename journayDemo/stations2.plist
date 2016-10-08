@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>42.938733</real>
+		<key>long</key>
+		<real>-8.691796999999999</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Rego de Vilar</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.937986</real>
+		<key>long</key>
+		<real>-8.690246</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>A Bana</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.936462</real>
+		<key>long</key>
+		<real>-8.68811</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>A Bana</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.936239</real>
+		<key>long</key>
+		<real>-8.686833999999999</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.93755</real>
+		<key>long</key>
+		<real>-8.684469</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.939451</real>
+		<key>long</key>
+		<real>-8.683137</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.940904</real>
+		<key>long</key>
+		<real>-8.680306</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.94206</real>
+		<key>long</key>
+		<real>-8.67944</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.940719</real>
+		<key>long</key>
+		<real>-8.677821</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>15839 San Vicente</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.940755</real>
+		<key>long</key>
+		<real>-8.676384000000001</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>A Coruna</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.939673</real>
+		<key>long</key>
+		<real>-8.675110999999999</real>
+		<key>no</key>
+		<integer>11</integer>
+		<key>title</key>
+		<string>A Bana</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>42.939636</real>
+		<key>long</key>
+		<real>-8.673479</real>
+		<key>no</key>
+		<integer>12</integer>
+		<key>title</key>
+		<string>A Bana</string>
+	</dict>
+</array>
+</plist>

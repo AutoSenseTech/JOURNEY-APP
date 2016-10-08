@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>45.90456</real>
+		<key>long</key>
+		<real>-68.921758</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>98 Warbler Way</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.903831</real>
+		<key>long</key>
+		<real>-68.925703</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>4209 Freezeland Rd</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.902463</real>
+		<key>long</key>
+		<real>-68.927307</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Appalachian Trail</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.900468</real>
+		<key>long</key>
+		<real>-68.929097</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Marshall</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.899285</real>
+		<key>long</key>
+		<real>-68.930233</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Marshall</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.898299</real>
+		<key>long</key>
+		<real>-68.936942</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Marshall</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.899076</real>
+		<key>long</key>
+		<real>-68.943215</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Marshall</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.899957</real>
+		<key>long</key>
+		<real>-68.946468</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>45.897681</real>
+		<key>long</key>
+		<real>-68.953846</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>CA</string>
+	</dict>
+</array>
+</plist>

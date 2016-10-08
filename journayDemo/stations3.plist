@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>44.143823</real>
+		<key>long</key>
+		<real>9.660617999999999</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Monterosso al Mare</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.142863</real>
+		<key>long</key>
+		<real>9.667319000000001</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.139864</real>
+		<key>long</key>
+		<real>9.675867999999999</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>19018 Vernazza SP</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.136031</real>
+		<key>long</key>
+		<real>9.682168000000001</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Riviera Ligure di Levante</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.132188</real>
+		<key>long</key>
+		<real>9.685841999999999</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.130153</real>
+		<key>long</key>
+		<real>9.691044</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Riviera Ligure di Levante</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.127874</real>
+		<key>long</key>
+		<real>9.698399</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Via Stazione</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.124642</real>
+		<key>long</key>
+		<real>9.704416999999999</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.12043</real>
+		<key>long</key>
+		<real>9.705253000000001</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.11464</real>
+		<key>long</key>
+		<real>9.722695</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Via Stazione,27</string>
+	</dict>
+</array>
+</plist>
