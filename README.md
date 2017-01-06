@@ -1,4 +1,4 @@
-# JOURNEY-APP
+# JOURNEY-APP(World Trekker)
 
 ## Synopsis
 
